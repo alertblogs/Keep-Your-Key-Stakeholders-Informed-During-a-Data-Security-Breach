@@ -1,40 +1,38 @@
-AlertOps Expert Guidance
+Keep Your Key Stakeholders Informed During a Data Security Breach
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Is your company in compliance with current data security regulations? For today’s businesses, it is crucial to stay up to date with data security mandates. Otherwise, a company that fails to comply with these mandates risks regulatory penalties, brand reputation damage, revenue loss and customer turnover, among other issues.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Data Security Mandates: Here’s What You Need to Know
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+In 2018, the European Union (EU) enacted the General Data Protection Regulation (GDPR) to safeguard EU residents against privacy and data breaches.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+GDPR requires businesses to notify the public about a data breach within 72 hours of first becoming aware of the incident. It applies to both data controllers and processors, as well as public, private and hybrid clouds. Failure to comply with GDPR may result in fines up to 4% of a company’s annual global revenue or €20 million (approximately $26.8 million) – whichever total is greater.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+In the United States, the Data Security and Breach Notification Act was introduced in 2017. It would require businesses to implement “reasonable security policies and procedures to protect data containing personal information, and to provide for nationwide notice in the event of a breach of security.”
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Also, the Data Security and Breach Notification Act would require businesses to notify various agencies in the event of a breach, including:
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    S. Secret Service
+    Federal Bureau of Investigation (FBI)
+    Federal Trade Commission (FTC)
+    S. Postal Inspection Service (mail fraud)
+    Attorney General of affected states
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Failure to comply with the Data Security and Breach Notification Act would result in a fine or imprisonment up to five years.
 
-1 Red Canary 2021 Threat Detection Report
+How to Stop a Data Security Breach
+
+No organization is immune to a data breach, and the best way to stop a data security breach is to plan ahead for the worst-case scenarios. To do that, ask yourself this question: how can you keep your business partners, consumers/patients and service desk teams up to date when resolving a major data breach incident?
+
+A business likely cannot prevent data breaches from happening. But a business can ensure its key stakeholders are notified as soon as a breach happens. A company can also keep its stakeholders up to date until a breach is fully addressed.
+
+Ultimately, an alert monitoring system often drives unparalleled data breach notification. It offers workflows to manage escalations, and if a data breach occurs, the system can trigger notifications to people and systems at the same time. Plus, an alert tracking system enables a business to manage service-level agreements (SLAs) based on priority and service level. It even offers message rules and workflow engines that give a business the flexibility to configure and enhance its incident management based on its day-to-day activities and operations.
+Notify your key stakeholders about a data security breach – deploy an alert monitoring system, and your business can keep its stakeholders informed during a data breach and comply with data security mandates.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/how-do-you-notify-customers-when-there-is-a-data-security-breach/
 
 Read more:
 ====
